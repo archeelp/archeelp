@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif Kazi</h1>
+<h1 align="center">Hi 👋, I'm Archeel Parekh</h1>
 
 - 🔭 I’m currently working on [USERQUAL](https://github.com/UserQual-React)
 
@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archeelp&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />   
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archeelp&theme=tokyonight" alt="archeelp" /></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br>
