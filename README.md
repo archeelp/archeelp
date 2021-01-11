@@ -15,6 +15,12 @@
 <h3>⌚️ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#719](https://github.com/justadudewhohacks/face-api.js/issues/719) in [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+2. ❗️ Reopened issue [#719](https://github.com/justadudewhohacks/face-api.js/issues/719) in [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+3. ❗️ Closed issue [#719](https://github.com/justadudewhohacks/face-api.js/issues/719) in [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+4. 🗣 Commented on [#723](https://github.com/justadudewhohacks/face-api.js/issues/723) in [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+5. 🗣 Commented on [#719](https://github.com/justadudewhohacks/face-api.js/issues/719) in [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+<!--END_SECTION:activity-->
 
 <br>
 
