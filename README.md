@@ -30,11 +30,11 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeelp&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=archeelp&theme=tokyonight" alt="archeelp" /> 
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=archeelp&theme=tokyonight" alt="archeelp" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archeelp&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
 </p>
 
 <br>
