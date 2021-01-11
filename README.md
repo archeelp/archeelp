@@ -16,8 +16,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
